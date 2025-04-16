@@ -1,0 +1,1 @@
+Rutina checklist v4 - Firebase Auth + Firestore
