@@ -12,7 +12,7 @@ const firebaseConfig = {
 };
 
 const app = initializeApp(firebaseConfig);
-const auth = getAuth(app); // <-- ESTA LÍNEA es clave
+const auth = getAuth(app); // 🔥 ESTA LÍNEA es crucial
 
 const db = getFirestore(app);
 const provider = new GoogleAuthProvider();
